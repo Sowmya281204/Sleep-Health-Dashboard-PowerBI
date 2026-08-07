@@ -39,7 +39,7 @@ Developed an interactive Power BI dashboard to analyze sleep duration, BMI, stre
 
 ## Dashboard Preview
 
-![Sleep Dashboard](image.png)
+![Sleep health and lifestyle Dashboard](image2.png)
 
 ---
 
