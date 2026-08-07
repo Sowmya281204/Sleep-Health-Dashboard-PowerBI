@@ -1,4 +1,4 @@
-# 😴 Sleep Health Dashboard - Power BI
+# 😴 Sleep Health and Lifestyle Dashboard - Power BI
 
 ## Project Overview
 
